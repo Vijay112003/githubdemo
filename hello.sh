@@ -1,1 +1,0 @@
-git commit -a -m "Updated index.html"
